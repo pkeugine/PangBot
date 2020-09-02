@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63d5ebdd-cfb0-4824-b210-e2a93d9320d5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PangBot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="63d5ebdd-cfb0-4824-b210-e2a93d9320d5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +19,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Eugine Park &lt;pkeugine@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1gxUegiuc2tXJtTzMbotmOmtjWr" />
@@ -48,12 +46,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599055833722</updated>
-      <workItem from="1599055835255" duration="324000" />
+      <workItem from="1599055835255" duration="661000" />
     </task>
+    <task id="LOCAL-00001" summary=".idea file added">
+      <created>1599056426965</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599056426965</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=".idea file added" />
+    <option name="LAST_COMMIT_MESSAGE" value=".idea file added" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1074" y="618" key="#Composer" timestamp="1599055847813">
@@ -64,6 +74,10 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="948" y="381" key="#PHP/0.23.2560.1417@0.23.2560.1417" timestamp="1599055916384" />
+    <state x="1437" y="515" key="CommitChangelistDialog2" timestamp="1599056426851">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1437" y="515" key="CommitChangelistDialog2/0.23.2560.1417@0.23.2560.1417" timestamp="1599056426851" />
     <state width="1358" height="271" key="GridCell.Tab.0.bottom" timestamp="1599056049376">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
@@ -80,5 +94,13 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state width="1358" height="271" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1599056049376" />
+    <state x="1618" y="649" key="RollbackChangesDialog" timestamp="1599056397191">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1618" y="649" key="RollbackChangesDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1599056397191" />
+    <state x="1460" y="680" key="Vcs.Push.Dialog.v2" timestamp="1599056435979">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1460" y="680" key="Vcs.Push.Dialog.v2/0.23.2560.1417@0.23.2560.1417" timestamp="1599056435979" />
   </component>
 </project>
